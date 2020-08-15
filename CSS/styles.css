@@ -1,0 +1,28 @@
+.init {
+  background-color: #f4a688;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+}
+#bienvenida {
+  font-family: "Montserrat-Black", sans-serif;
+  color: white;
+  font-size: 3rem;
+}
+.middle{
+  background-color: #f4a688;
+}
+#texto{
+  color: white;
+  margin: 0;
+}
+.tickets{
+  background-color: white;
+  text-align: center;
+}
+img {
+  padding: auto;
+}
+.car{
+  padding: auto;
+}
